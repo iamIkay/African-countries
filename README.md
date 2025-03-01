@@ -1,16 +1,10 @@
 # african_countries
 
-A new Flutter project.
+Search and find African countries and their details.
+Data from restcountries.com API
 
-## Getting Started
+Framework: Flutter
 
-This project is a starting point for a Flutter application.
+# Screenshots
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![alt text](https://github.com/iamIkay/instagram-bloc/blob/main/assets/screenshots/screenshot1.png?raw=true) ![alt text](https://github.com/iamIkay/instagram-bloc/blob/main/assets/screenshots/screenshot2.png?raw=true) ![alt text](https://github.com/iamIkay/instagram-bloc/blob/main/assets/screenshots/screenshot3.png?raw=true)
